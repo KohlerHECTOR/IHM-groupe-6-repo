@@ -11,14 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Interview 
+1. Quel type de carte avez-vous utilisé pour la derniere fois?
+2. Dans quel contexte/appli?
+3. A quelle fréquence utilisez-vous une carte?
+4. Avis sur l'expérience de 1 a 7. 
+5. Quel ajout aurait-pu encore amélierer votre expérience?
+6. Qu'avez-vous fait immédiatemment apres votre utilisation de la carte?
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
