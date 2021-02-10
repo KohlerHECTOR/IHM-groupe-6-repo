@@ -58,9 +58,9 @@ Que fais-tu avant d'utiliser une carte?
 
 # Use scenario, personas, et interaction points
 ### Premier point de vue :
-[Personas_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_BIE.jpg)
-[Use Scenario_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Use Scenario_BIE.jpg)
-[Interaction Point_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interaction Point_BIE.jpg)
+Personas : [Personas_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_BIE.jpg),
+Use scenario : [Use_Scenario_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Use_Scenario_BIE.jpg), et
+Interaction point : [Interaction_Point_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interaction_Point_BIE.jpg)
 
 
 
