@@ -67,6 +67,9 @@ Les interviews associées : [Interview_IHM_Robert.m4a](https://github.com/Kohler
 
 Les interviews associées :
 
+[Interv1.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interv1.pdf)
+[Interv2.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interv2.pdf)
+
 ### Quatrième point de vue :
 
 Les interviews associées :
@@ -111,10 +114,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-**Bold** and _Italic_ and `Code` text
-
-[Interv1.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interv1.pdf) and ![Image](src)
-[Interv2.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interv2.pdf)
+**Bold** and _Italic_ and `Code` text and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
