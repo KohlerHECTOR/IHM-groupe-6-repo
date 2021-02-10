@@ -9,6 +9,8 @@
 5. Quel ajout aurait-pu encore amélierer votre expérience?
 6. Qu'avez-vous fait immédiatemment apres votre utilisation de la carte?
 
+Les interviews associées :
+
 ### Deuxième point de vue :
 1. Combien de fois as-tu utilisé une carte aujourd'hui?  
 
@@ -58,11 +60,17 @@ Que fais-tu avant d'utiliser une carte?
 
 21. Quel ajout aurait-pu encore améliorer votre expérience?
 
-Les interviews associées : [Interview_IHM_Robert.mp4](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interview_IHM_Robert.mp4), et
-[Interview_IHM_Robert.mp4](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interview_IHM_Robert.mp4)
+Les interviews associées : [Interview_IHM_Robert.m4a](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interview_IHM_Robert.m4a), et
+[Interview_IHM_Robert.m4a](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interview_IHM_Robert.m4a)
+
 ### Troisième point de vue :
 
+Les interviews associées :
+
 ### Quatrième point de vue :
+
+Les interviews associées :
+
 
 # Personas, use scenario, et interaction points
 ### Premier point de vue :
