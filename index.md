@@ -75,6 +75,7 @@ Que fais-tu avant d'utiliser une carte?
 **Bold** and _Italic_ and `Code` text
 
 [Interv1.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interv1.pdf) and ![Image](src)
+[Interv2.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interv2.pdf)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
