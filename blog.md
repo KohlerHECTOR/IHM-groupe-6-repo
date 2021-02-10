@@ -65,6 +65,10 @@ Que fais-tu avant d'utiliser une carte?
 20. Quelles sont pour toi les caractéristiques importantes d’une bonne carte? 
 
 21. Quel ajout aurait-pu encore améliorer votre expérience?
+
+# Use scenario, personas, et interaction points
+[Personas_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_BIE.jpg)
+
 ## Header 2
 ### Header 3
 
