@@ -1,14 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
+## Test
 
 # Interview 1
 1. Quel type de carte avez-vous utilisé pour la derniere fois?
@@ -67,14 +57,27 @@ Que fais-tu avant d'utiliser une carte?
 21. Quel ajout aurait-pu encore améliorer votre expérience?
 
 # Use scenario, personas, et interaction points
+### Premier point de vue :
 [Personas_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_BIE.jpg)
+[Use Scenario_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Use Scenario_BIE.jpg)
+[Interaction Point_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interaction Point_BIE.jpg)
+
+
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Syntax highlighted code block
 
 ## Header 2
 ### Header 3
-
-
-
-
 
 **Bold** and _Italic_ and `Code` text
 
