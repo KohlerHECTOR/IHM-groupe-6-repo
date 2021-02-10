@@ -1,6 +1,5 @@
-## Test
-
-# Interview 1
+# Interviews 
+## Premier point de vue :
 1. Quel type de carte avez-vous utilisé pour la derniere fois?
 2. Dans quel contexte/appli?
 3. A quelle fréquence utilisez-vous une carte?
@@ -8,7 +7,7 @@
 5. Quel ajout aurait-pu encore amélierer votre expérience?
 6. Qu'avez-vous fait immédiatemment apres votre utilisation de la carte?
 
-# Interview 2
+### Deuxième point de vue :
 1. Combien de fois as-tu utilisé une carte aujourd'hui?  
 
 2. Cette semaine, combien de cartes as-tu regardé par jour? 
@@ -56,11 +55,31 @@ Que fais-tu avant d'utiliser une carte?
 
 21. Quel ajout aurait-pu encore améliorer votre expérience?
 
-# Use scenario, personas, et interaction points
+### Troisième point de vue :
+
+### Quatrième point de vue :
+
+# Personas, use scenario, et interaction points
 ### Premier point de vue :
 Personas : [Personas_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_BIE.jpg),
 Use scenario : [Use_Scenario_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Use_Scenario_BIE.jpg), et
 Interaction point : [Interaction_Point_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interaction_Point_BIE.jpg)
+
+### Deuxième point de vue :
+Personas : ,
+Use scenario : , et
+Interaction point :
+
+### Troisième point de vue :
+Personas : ,
+Use scenario : , et
+Interaction point :
+
+### Quatrième point de vue :
+Personas : ,
+Use scenario : , et
+Interaction point :
+
 
 
 
