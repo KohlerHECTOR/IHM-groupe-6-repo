@@ -1,5 +1,7 @@
+## Blog de projet d'IHM
+
 # Interviews 
-## Premier point de vue :
+### Premier point de vue :
 1. Quel type de carte avez-vous utilisé pour la derniere fois?
 2. Dans quel contexte/appli?
 3. A quelle fréquence utilisez-vous une carte?
@@ -61,14 +63,14 @@ Que fais-tu avant d'utiliser une carte?
 
 # Personas, use scenario, et interaction points
 ### Premier point de vue :
+Personas : ,
+Use scenario : , et
+Interaction point : 
+
+### Deuxième point de vue :
 Personas : [Personas_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_BIE.jpg),
 Use scenario : [Use_Scenario_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Use_Scenario_BIE.jpg), et
 Interaction point : [Interaction_Point_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interaction_Point_BIE.jpg)
-
-### Deuxième point de vue :
-Personas : ,
-Use scenario : , et
-Interaction point :
 
 ### Troisième point de vue :
 Personas : ,
