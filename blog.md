@@ -75,6 +75,10 @@ Les interviews associées :
 
 Les interviews associées :
 
+[Interview1.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interview1.pdf)
+
+[Interview2.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interview2.pdf)
+
 
 # Personas, use scenario, et interaction points
 ### Premier point de vue :
