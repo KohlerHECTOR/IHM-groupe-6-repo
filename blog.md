@@ -19,6 +19,7 @@ Laquelle est la plus frequente dans ton utilisaation? La plus recente?
 3. Quelles sont les situations les plus fréquentes qui te poussent à utiliser une carte. 
 
 Pour chacune d'elle:
+
 4. As-tu réussi a t'en servir? A chaque fois? Comment? 
 
 5. Dans quel contexte/application? Quelle en est ton utilisation? Qu'essaies-tu de faire avec cette carte? Comment l'utilises tu?
