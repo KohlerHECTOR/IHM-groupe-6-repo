@@ -94,7 +94,7 @@ Interaction point : [Interaction_Point_BIE.jpg](https://github.com/KohlerHECTOR/
 ### Troisième point de vue : 
 Personas : [Personas_kh.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_kh.pdf),
 Use scenario : [Use_scenario_kh.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Use_scenario_kh.pdf), et
-Interaction point :
+Interaction point : [Interaction_Points_kh.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interaction_Points_kh.pdf)
 
 ### Quatrième point de vue :
 Personas : ,
