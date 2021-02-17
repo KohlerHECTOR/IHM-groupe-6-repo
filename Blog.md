@@ -97,6 +97,12 @@ Personas : [Personas_Cedric.jpeg](https://github.com/KohlerHECTOR/IHM-groupe-6-r
 Use scenario :[Use_scenario_Cedric.jpeg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Use_scenario_Cedric.jpeg) , et
 Interaction point :[Interaction_Point_Cedric.jpeg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Interaction_Point_Cedric.jpeg)
 
+# Brainstorming
+Brainstorming général : [Brainstorming.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Brainstorming.pdf)
+Brainstorming accès randonnée : [Brainstorming_2.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Brainstorming_2.pdf)
+
+
+
 
 
 
