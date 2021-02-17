@@ -2,21 +2,17 @@
 
 # Interviews 
 ### Premier point de vue :
-1. Quel type de carte avez-vous utilisé pour la derniere fois?
-2. Dans quel contexte/appli?
-3. A quelle fréquence utilisez-vous une carte?
-4. Avis sur l'expérience de 1 a 7. 
-5. Quel ajout aurait-pu encore amélierer votre expérience?
-6. Qu'avez-vous fait immédiatemment apres votre utilisation de la carte?
+ 
 
 Les interviews associées :
+[interviewCarte.mp3](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/interviewCarte.mp3)
 
 ### Deuxième point de vue :
 1. Combien de fois as-tu utilisé une carte aujourd'hui?  
 
 2. Cette semaine, combien de cartes as-tu regardé par jour? 
 Combien de types de cartes differentes?
-Laquelle est la plus frequente dans ton utilisaation? La plus recente? 
+Laquelle est la plus frequente dans ton utilisation? La plus recente? 
 
 3. Quelles sont les situations les plus fréquentes qui te poussent à utiliser une carte. 
 
@@ -82,9 +78,9 @@ Les interviews associées :
 
 # Personas, use scenario, et interaction points
 ### Premier point de vue :
-Personas : ,
-Use scenario : , et
-Interaction point : 
+Personas : [personasHec.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/personasHec.jpg),
+Use scenario :[userScenarionHec.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/userScenarionHec.JPG) , et
+Interaction point : [interactionPointHector.jpeg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/interactionPointHector.jpeg)
 
 ### Deuxième point de vue :
 Personas : [Personas_BIE.jpg](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Personas_BIE.jpg),
