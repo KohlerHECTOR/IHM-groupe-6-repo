@@ -101,3 +101,6 @@ Interaction point :[Interaction_Point_Cedric.jpeg](https://github.com/KohlerHECT
 Brainstorming général : [Brainstorming.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Brainstorming.pdf)
 
 Brainstorming accès randonnée : [Brainstorming_2.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Brainstorming_2.pdf)
+
+# Design dimensions et design space
+Accessibles en suivant ce lien : https://docs.google.com/document/d/155kEaXdSyHUY4IodAbQqWGbbFU5yWaqkqZ3WPWk1Wos/edit?usp=sharing
