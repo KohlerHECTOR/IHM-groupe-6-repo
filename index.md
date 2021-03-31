@@ -103,7 +103,7 @@ Brainstorming général : [Brainstorming.pdf](https://github.com/KohlerHECTOR/IH
 Brainstorming accès randonnée : [Brainstorming_2.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Brainstorming_2.pdf)
 
 # Design dimensions et design space
-Accessibles en suivant ce lien : https://docs.google.com/document/d/155kEaXdSyHUY4IodAbQqWGbbFU5yWaqkqZ3WPWk1Wos/edit?usp=sharing
+[DesignDimension_Space.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/DesignDimension_Space.pdf)
 
 # Diapositives de la présentation finale
  [Presentation_IHM.pdf](https://github.com/KohlerHECTOR/IHM-groupe-6-repo/raw/gh-pages/Presentation_IHM.pdf)
